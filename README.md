@@ -19,7 +19,7 @@
 
 4.（可选步骤）输入3，回车→输入作者UID（可在/data文件夹生成的xxxxxx.xlsx文件找到，xxxxxx即为作者UID），回车→等待爬虫程序爬完图片资源（速度快慢由你的网络环境决定）
 
-5.打开home.html→选择文件（./data/FC2_ALL.xlsx）→enjoy或者直接打开/data文件夹xxxxxx.xlsx文件直接查看
+5.打开home.html→选择文件（./data/xxxxxx.xlsx）→enjoy或者直接打开/data文件夹xxxxxx.xlsx文件直接查看
 
 
 
